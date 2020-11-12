@@ -1,0 +1,9 @@
+{
+  "name": "GraphQL_practice",
+  "version": "1.0.0",
+  "description": "movie api",
+  "main": "index.js",
+  "repository": "https://github.com/dopza86/graphQl_practice.git",
+  "author": "dopza86",
+  "license": "MIT"
+}
